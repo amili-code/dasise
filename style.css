@@ -1,0 +1,17 @@
+/* 
+Theme Name: Hodecode
+
+*/
+
+@font-face {
+  font-family: peyda;
+  src: url(./assets/font/PeydaWeb-Regular.woff2) format('woff2'),
+       url(./assets/font/PeydaWeb-Regular.woff) format('woff');
+  font-weight: normal; /* یا bold */
+  font-style: normal;
+}
+
+body {
+    font-family: peyda, sans-serif; 
+    direction: rtl;
+}

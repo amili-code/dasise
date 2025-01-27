@@ -1,0 +1,39 @@
+{
+    "senarios": [
+        {
+            "9": [
+                {
+                    "text":"loremdlfjlsd;jfkl;asdjfkljdskl;fjkl;adsjf;ldjasf",
+                    "pic":"senarios/9/pic.jpg"
+                },
+                {
+                    "text":"22222222222loremdlfjlsdsdfdsaf;asdjfkljdskl;fjkl;adsjf;ldjasf",
+                    "video":"senarios/9/vid.mov"
+                },{
+                    "text": "loremdlfjlsd;jfkl;asdjfkljdskl;fjkl;adsjf;ldjasf",
+                    "pic": "senarios/9/pic.jpg"
+                },
+                {
+                    "text": "22222222222loremdlfjlsdsdfdsaf;asdjfkljdskl;fjkl;adsjf;ldjasf",
+                    "video": "senarios/9/vid.mov"
+                },{
+                    "text": "loremdlfjlsd;jfkl;asdjfkljdskl;fjkl;adsjf;ldjasf",
+                    "pic": "senarios/9/pic.jpg"
+                },
+                {
+                    "text": "22222222222loremdlfjlsdsdfdsaf;asdjfkljdskl;fjkl;adsjf;ldjasf",
+                    "video": "senarios/9/vid.mov"
+                }
+            ],
+            "34":[
+                {
+                    "text":"داستان مرگ مردی 40 ساله در معبد خدا",
+                    "pic":"senarios/34/1.png"
+                },{
+                    "pic":"senarios/34/2.png"
+
+                }
+            ]
+        }
+    ]
+}
