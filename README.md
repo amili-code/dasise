@@ -93,7 +93,7 @@
 ├─forms  
 ├─pic  
 ├─senarios  
-├─404.php
+├─404.php  
 ├─footer.php  
 ├─functions.php  
 ├─header.php  
@@ -117,7 +117,7 @@
 ├─single-lost.php  
 ├─single.php  
 ├─singular.php  
-├─style.css
+├─style.css  
 └──template-solve-challenge.php
 
 
