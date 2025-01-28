@@ -48,50 +48,44 @@
 <div direction="ltr">
   
 [Dasise](https://github.com/amili-code/dasise)  
-├assets  
-│├css  
-│├font  
-│├img  
-│├js  
-│├scss 
-│└vendor
-├components  
-├demon  
-├forms  
-├pic  
-├senarios  
-│
-│
-│
-│
-│
-│
-├404.php
-├footer.php  
-├functions.php  
-├header.php  
-├hello.html  
-├index.php  
-├login.php  
-├page-about-us.php  
-├page-challenges.php  
-├page-exam.php  
-├page-plan.php  
-├page-prof.php  
-├page-purchase.php  
-├page-results.php  
-├page-sugestion.php  
-├page-text.php  
-├process_form.php  
-├process_scenario.php  
-├senario.json  
-├singnup.php  
-├single-category-story.php  
-├single-lost.php  
-├single.php  
-├singular.php  
-├style.css
-└template-solve-challenge.php
+├─assets  
+│ ├─css  
+│ ├─font  
+│ ├─img  
+│ ├─js  
+│ ├─scss 
+│ └──vendor
+├─components  
+├─demon  
+├─forms  
+├─pic  
+├─senarios  
+├─404.php
+├─footer.php  
+├─functions.php  
+├─header.php  
+├─hello.html  
+├─index.php  
+├─login.php  
+├─page-about-us.php  
+├─page-challenges.php  
+├─page-exam.php  
+├─page-plan.php  
+├─page-prof.php  
+├─page-purchase.php  
+├─page-results.php  
+├─page-sugestion.php  
+├─page-text.php  
+├─process_form.php  
+├─process_scenario.php  
+├─senario.json  
+├─singnup.php  
+├─single-category-story.php  
+├─single-lost.php  
+├─single.php  
+├─singular.php  
+├─style.css
+└──template-solve-challenge.php
 
 
 
