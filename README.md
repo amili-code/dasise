@@ -77,7 +77,7 @@
   
   ### نمایش</summary> 
  
-<div direction="ltr">
+ <div direction="ltr">
   
 [Dasise](https://github.com/amili-code/dasise)  
 ├─assets  
@@ -88,7 +88,7 @@
 │ ├─scss  
 │ └──vendor  
 ├─components  
-| └──pic.php
+| └──pic.php  
 ├─demon  
 ├─forms  
 ├─pic  
