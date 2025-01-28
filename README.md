@@ -53,9 +53,10 @@
 │ ├─font  
 │ ├─img  
 │ ├─js  
-│ ├─scss 
-│ └──vendor
+│ ├─scss  
+│ └──vendor  
 ├─components  
+| └──pic.php
 ├─demon  
 ├─forms  
 ├─pic  
